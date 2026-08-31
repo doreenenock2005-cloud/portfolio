@@ -1,0 +1,9 @@
+.first{
+   text-align:center;
+
+}
+.second{
+    flex-direction:column;
+    gap:10px;
+    text-align:right;
+}
