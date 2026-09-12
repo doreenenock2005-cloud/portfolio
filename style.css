@@ -7,3 +7,21 @@
     gap:10px;
     text-align:right;
 }
+.container{
+    width:90%;
+    max-width:1000px;
+    margin : 0 auto;
+    padding: 30px;
+    background-color: white;
+    border-radius:12px;
+    box-shadow: 0 4px 15px blue;
+    flex:2;
+}
+.container-right{
+    background-color: white;
+    padding:30px;
+    border-radius:12px;
+    margin:left;
+    flex:1;
+    box-shadow: 0 4px 15px blue; 
+}
