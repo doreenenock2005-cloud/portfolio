@@ -41,3 +41,19 @@
     box-shadow: 0 4px 15px blue; 
 }
 
+.third-container{
+    width:90%;
+    max-width:1000px;
+    background-color:white;
+    padding:30px;
+    border-radius:12px;
+    margin:left;
+    flex:1;
+    min-height:250px;
+    box-shadow:0 4px 15px  blue;
+}
+
+#heading{
+    vertical-align:center;
+}
+
