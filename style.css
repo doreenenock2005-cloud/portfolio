@@ -2,10 +2,10 @@
    text-align:center;
 
 }
-.second{
+.nav-bar{
     flex-direction:column;
     gap:10px;
-    text-align:right;
+    text-align:center;
 }
 
 .main-container{
@@ -79,13 +79,18 @@ h1{
     transform:scale(1.1);
 }
 
-.container{
+.container-1{
     display:flex;
     align-items:center;
     gap:40px;
     padding:40px;
     flex-direction:row;
     align-items:center;
+    width:92.5vw;
+    height:60vh;
+    box-shadow:0 4px 15px  blue;
+    background-color:white;
+    flex:1;
 }
 .about-content {
     display: flex;
@@ -96,11 +101,12 @@ h1{
 
 #about{
     flex: 1;
+    text-align:center;
 }
 
 .image {
     flex: 1;
-    text-align: center;
+    text-align: right;
 }
 
 .image img {
